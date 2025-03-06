@@ -1,3 +1,6 @@
+### Forked from: [ElementalWarrior/wine](https://gitlab.winehq.org/ElementalWarrior/wine/) Branch: `affinity-photo3-wine9.13-part3`
+
+
 ## INTRODUCTION
 
 Wine is a program which allows running Microsoft Windows programs
